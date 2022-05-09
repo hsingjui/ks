@@ -1,11 +1,9 @@
 /*
-IOS/安卓： 快手极速版稳定明文防黑版
-0509版本更新，内置热心网友的看广告json，已放本人仓库，无需代理，可直接开跑。
-13:00之前跑342金币+699金币（预计跑完5-6次后0金币）
-13:00以后跑80金币+100金币（13点前的0金币后可跑这个）
-四组广告数据混合，提升收益的同时还降低黑号风险。
-预计日收益5w金币。
-快手极速版CK变量ksjsbCookie
+IOS/安卓： 快手极速版解密版
+JS脚本透明，用的放心。
+0507版本，内置热心网友的看广告json，已放本人仓库，无需代理，可直接开跑。
+内置990金币+213金币+100金币，三组广告数据，提升收益降低黑号风险。
+预计日收益5-6w金币。
 重写：
 [task_local]
 #快手极速版
@@ -102,7 +100,7 @@ const _0x11b3c3 = "快手极速版",
 
 let _0x279d25 = '',
     _0x1a0963,
-    _0x4c35fe = ["\n", '@', '&'],
+    _0x4c35fe = ["\n", '@'],
     _0x547212 = (_0x3de8b8["isNode"]() ? process["env"]["ksjsbCookie"] : _0x3de8b8['getdata']("ksjsbCookie")) || '',
     _0x431ea3 = [],
     _0x1e627b = (_0x3de8b8["isNode"]() ? process["env"]["ksjsbCash"] : _0x3de8b8["getval"]("ksjsbCash")) || '',
@@ -182,12 +180,12 @@ const _0x1eb2d5 = {
   'name': "抽奖视频990+"
 },
       _0x10efec = {
-  'extParams': '56dfe31594b858e69ef613f5e97227fb67b973ad1394855c549442d15702f96393178eaeef5635134bb7e4ff97e69218c1f18455baf645dbaef685b7bf30c0914ea53ddcde26b2fa67b888203dab0fd4',
+  'extParams': '56dfe31594b858e69ef613f5e97227fbe9979240d7caecf84db127b47a4a8bb0a744376361788e9d4f8341978842c3a723b72e4befa3dc60a2c580bf4fc43399f798f286e2c8c3069effa1db27aa45bd',
   'businessId': 11,
   'pageId': 11101,
   'posId': 4684,
   'subPageId': 100013629,
-  'name': "抽奖视频100+"
+  'name': "抽奖视频990+"
 },
       _0x385181 = {
   'extParams': "60869a9fd2ab63f5e0b1725d059da31f7d3ed3046658438ee204a153c3bc47189ccf268b22e603b6750780c9647e7a12b3027381e11da27b234311bccfd4a67bb892f889a4020ceae4f4e102cc50c327",
@@ -230,7 +228,7 @@ let _0x134a17 = new Date(),
     _0x2e716e = 0,
     _0x5bc515 = "ksjsb",
     _0x180c0c = "https://ghproxy.com/https://github.com/hsingjui/ks/blob/master/ks.json",
-    ksjsbjk = "hhttps://ghproxy.com/ttps://github.com/hsingjui/ks/blob/master/ksjsb.json",//广告json
+    ksjsbjk = "hhttps://ghproxy.com/https://github.com/hsingjui/ks/blob/master/ksjsb.json",
     _0x75eec0 = "https://127.0.0.1/";
 
 class _0x9d8dda {
@@ -3474,7 +3472,7 @@ function Envcc(T, c) {
     'CMAOs': "setval",
     'dceom': 'ijzfe',
     'JighY': 'updateMsg',
-    'uwDzR': "https://github.com/hsingjui/ks/blob/master/ks.json",
+    'uwDzR': "https://ziye0.coding.net/p/ziye/d/ql/git/raw/master/ks.json",
     'CvmUM': function (S, a) {
       return S === a;
     },
@@ -3968,7 +3966,7 @@ function Envcc(T, c) {
       if (p["JpIGP"]('ViWHE', p["NOwog"])) {
         if (p["QwtqA"](q, i[p["LTEld"]])) {
           d = true;
-          u = "https://github.com/hsingjui/ks/blob/master/ks.json";
+          u = "https://ziye0.coding.net/p/ziye/d/ql/git/raw/master/ks.json";
           e[p["zptFf"]](A[p['EqCpB']][k[p["Qdwtu"]]]);
           o['log'](g["updateMsg"]);
           t["log"](p["UAuSH"](p["AVAsN"], L[p['prrOr']]));
