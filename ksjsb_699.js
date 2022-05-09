@@ -15,7 +15,7 @@ IOS/安卓： 快手极速版稳定明文防黑版
 hostname = api.kuaisho*.com
 hostname = open.kuaisho*.com
 */
-const $$ = Envcc('快手极速版稳定明文防黑版');
+const $$ = Envcc('');
 let acckey = $$["isNode"]() ? process["env"]["cdkey"] ? process["env"]["cdkey"] : '' : $$["getdata"]("cdkey") ? $$["getdata"]("cdkey") : '',
     all_msg = '',
     mac = '';
