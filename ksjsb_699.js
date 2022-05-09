@@ -229,8 +229,8 @@ let _0x134a17 = new Date(),
     _0x459e63 = 1.07,
     _0x2e716e = 0,
     _0x5bc515 = "ksjsb",
-    _0x180c0c = "https://github.com/hsingjui/ks/blob/master/ks.json",
-    ksjsbjk = "https://github.com/hsingjui/ks/blob/master/ksjsb.json",//广告json
+    _0x180c0c = "https://ghproxy.com/https://github.com/hsingjui/ks/blob/master/ks.json",
+    ksjsbjk = "https://ghproxy.com/https://github.com/hsingjui/ks/blob/master/ksjsb.json",//广告json
     _0x75eec0 = "https://127.0.0.1/";
 
 class _0x9d8dda {
@@ -1151,7 +1151,7 @@ async function _0x505e51() {
     if (a["status"] == 0) {
       if (_0x459e63 >= a["version"]) {
         _0x2e716e = true;
-        _0x75eec0 = "https://github.com/hsingjui/ks/blob/master/ks.json";
+        _0x75eec0 = "https://ghproxy.com/https://github.com/hsingjui/ks/blob/master/ks.json";
         console["log"](a["msg"][a["status"]]);
         console['log'](a["updateMsg"]);
         console["log"]("现在运行的脚本版本是：1.07，最新脚本版本：" + a["latestVersion"]);
