@@ -15,7 +15,7 @@ IOS/安卓： 快手极速版稳定明文防黑版
 hostname = api.kuaisho*.com
 hostname = open.kuaisho*.com
 */
-const $$ = Envcc('');
+const $$ = Envcc('快手极速版稳定明文防黑版');
 let acckey = $$["isNode"]() ? process["env"]["cdkey"] ? process["env"]["cdkey"] : '' : $$["getdata"]("cdkey") ? $$["getdata"]("cdkey") : '',
     all_msg = '',
     mac = '';
@@ -230,7 +230,7 @@ let _0x134a17 = new Date(),
     _0x2e716e = 0,
     _0x5bc515 = "ksjsb",
     _0x180c0c = "https://github.com/hsingjui/ks/blob/master/ks.json",
-    ksjsbjk = "https://ziye0.coding.net/p/ziye/d/ql/git/raw/master/ksjsb-ziye.json",//广告json
+    ksjsbjk = "https://github.com/hsingjui/ks/blob/master/ksjsb.json",//广告json
     _0x75eec0 = "https://127.0.0.1/";
 
 class _0x9d8dda {
@@ -1151,7 +1151,7 @@ async function _0x505e51() {
     if (a["status"] == 0) {
       if (_0x459e63 >= a["version"]) {
         _0x2e716e = true;
-        _0x75eec0 = "https://ziye0.coding.net/p/ziye/d/ql/git/raw/master/ks.json";
+        _0x75eec0 = "https://github.com/hsingjui/ks/blob/master/ks.json";
         console["log"](a["msg"][a["status"]]);
         console['log'](a["updateMsg"]);
         console["log"]("现在运行的脚本版本是：1.07，最新脚本版本：" + a["latestVersion"]);
@@ -3474,7 +3474,7 @@ function Envcc(T, c) {
     'CMAOs': "setval",
     'dceom': 'ijzfe',
     'JighY': 'updateMsg',
-    'uwDzR': "https://ziye0.coding.net/p/ziye/d/ql/git/raw/master/ks.json",
+    'uwDzR': "https://github.com/hsingjui/ks/blob/master/ks.json",
     'CvmUM': function (S, a) {
       return S === a;
     },
@@ -3968,7 +3968,7 @@ function Envcc(T, c) {
       if (p["JpIGP"]('ViWHE', p["NOwog"])) {
         if (p["QwtqA"](q, i[p["LTEld"]])) {
           d = true;
-          u = "https://ziye0.coding.net/p/ziye/d/ql/git/raw/master/ks.json";
+          u = "https://github.com/hsingjui/ks/blob/master/ks.json";
           e[p["zptFf"]](A[p['EqCpB']][k[p["Qdwtu"]]]);
           o['log'](g["updateMsg"]);
           t["log"](p["UAuSH"](p["AVAsN"], L[p['prrOr']]));
