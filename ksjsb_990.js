@@ -100,7 +100,7 @@ const _0x11b3c3 = "快手极速版",
 
 let _0x279d25 = '',
     _0x1a0963,
-    _0x4c35fe = ["\n", '@'],
+    _0x4c35fe = ["\n", '@','&'],
     _0x547212 = (_0x3de8b8["isNode"]() ? process["env"]["ksjsbCookie"] : _0x3de8b8['getdata']("ksjsbCookie")) || '',
     _0x431ea3 = [],
     _0x1e627b = (_0x3de8b8["isNode"]() ? process["env"]["ksjsbCash"] : _0x3de8b8["getval"]("ksjsbCash")) || '',
