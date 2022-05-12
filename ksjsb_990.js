@@ -513,8 +513,8 @@ class _0x9d8dda {
 
           _0x1ab8b7("账号[" + this["name"] + "]准备最大化提现" + Y + '元');
 
-          await _0x3de8b8["wait"](200);
-          await this["withdraw"](Y);
+          // _0x3de8b8["wait"](200);
+          //await this["withdraw"](Y);
         }
       } else {
         if (!_0x1e627b) {
@@ -524,15 +524,15 @@ class _0x9d8dda {
             if (a >= parseFloat(Z)) {
               _0x1ab8b7("账号[" + this["name"] + "]准备提现" + Z + '元');
 
-              await _0x3de8b8["wait"](200);
-              await this["withdraw"](Z);
+              //await _0x3de8b8["wait"](200);
+              //await this["withdraw"](Z);
               return;
             }
           }
 
           _0x1ab8b7("账号[" + this["name"] + "]余额不足，可提现额度：" + S["data"]["enWithdrawList"]["join"](','));
         } else {
-          a >= parseFloat(_0x1e627b) ? (_0x1ab8b7("账号[" + this["name"] + "]准备提现" + _0x1e627b + '元'), await _0x3de8b8["wait"](200), await this["withdraw"](_0x1e627b)) : _0x1ab8b7("账号[" + this["name"] + "]余额不足" + _0x1e627b + "元，不提现");
+          a >= parseFloat(_0x1e627b) ? (_0x1ab8b7("账号[" + this["name"] + "]准备提现" + _0x1e627b + '元')/*, await _0x3de8b8["wait"](200), await this["withdraw"](_0x1e627b)*/) : _0x1ab8b7("账号[" + this["name"] + "]余额不足" + _0x1e627b + "元，不提现");
         }
       }
     } else {
