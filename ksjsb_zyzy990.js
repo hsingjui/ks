@@ -14,7 +14,7 @@
  */
 
 // 根据自己信息填好
-const ksjsb_guanggao = "https://ghproxy.com/https://github.com/hsingjui/ks/blob/master/ksjsb.json"; // 你的广告列表地址
+const ksjsb_guanggao = "https://ghproxy.com/https://github.com/hsingjui/ks/blob/master/ksjsb1.json"; // 你的广告列表地址
 const ksjsb_cookie = ''; // 你的CK，标准写法 kuaishou.api_st=xxx;@kuaishou.api_st=yyy; <--- 看到最后的英文分号(;)了么，不要省略
 const ksjsb_money = ''; // 提现金额，整数，留空表示按照快手返回的金额列表提现【建议留空】
 const ksjsb_hour = 11; // 提现时间，精确到小时。【建议改掉】
