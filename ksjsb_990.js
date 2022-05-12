@@ -234,8 +234,9 @@ let _0x134a17 = new Date(),
 class _0x9d8dda {
   constructor(T) {
     let p = T["match"](/(kuaishou.api_st=[\w\-]+)/)[1] + ';';
+    let z = T["match"](/(did=[\w\-]+)/)[1] + ';';
     this["index"] = ++_0x2863b1;
-    this["cookie"] = "kpn=NEBULA; kpf=ANDROID_PHONE; did=ANDROID_" + _0x4b5cde(16) + "; ver=9.10; appver=9.10.40.2474; language=zh-cn; countryCode=CN; sys=ANDROID_5.1; client_key=2ac2a76d; " + p;
+    this["cookie"] = "kpn=NEBULA; kpf=ANDROID_PHONE; " + z + " ver=9.10; appver=9.10.40.2474; language=zh-cn; countryCode=CN; sys=ANDROID_5.1; client_key=2ac2a76d; " + p;
     this["name"] = this["index"];
     this["valid"] = false;
     this["bindAlipay"] = false;
