@@ -213,10 +213,10 @@ const _0x1eb2d5 = {
 },
       _0x10d9f8 = {
   'luckdrawNum_161': _0x3355c4,
-  'luckdrawVideo_161_213': _0x458f20,
-  'luckdrawVideo_161_100': _0x124c4a,
-  'luckdrawVideo_11_213': _0x37f16f,
-  'luckdrawVideo_11_100': _0x10efec,
+  'luckdrawVideo_990': _0x458f20,
+  'luckdrawVideo_100': _0x124c4a,
+  'luckdrawVideo_990_2': _0x37f16f,
+  'luckdrawVideo_100_2': _0x10efec,
   'inviteVideo_2008': _0x385181,
   'liveVideo_75': _0xfcb1d2,
   'signVideo_168': _0x11da17
@@ -228,7 +228,7 @@ let _0x134a17 = new Date(),
     _0x2e716e = 0,
     _0x5bc515 = "ksjsb",
     _0x180c0c = "https://ghproxy.com/https://github.com/hsingjui/ks/blob/master/ks.json",
-    ksjsbjk = "https://ghproxy.com/https://github.com/hsingjui/ks/blob/master/ksjsb1.json",
+    ksjsbjk = "https://ghproxy.com/https://github.com/hsingjui/ks/blob/master/ksjsb.json",
     _0x75eec0 = "https://127.0.0.1/";
 
 class _0x9d8dda {
@@ -965,7 +965,7 @@ class _0x9d8dda {
 
       if (Z["task"][_0x1e4967["luckydraw"]]["needRun"]) {
         for (let U = 0; U < Z["task"][_0x1e4967["luckydraw"]]["num"]; U++) {
-          _0x20a9d7 < 13 ? (await Z["ksNeoAdParam"](_0x10d9f8["luckdrawVideo_161_213"]), await _0x3de8b8["wait"](200), await Z["ksNeoAdParam"](_0x10d9f8["luckdrawVideo_11_213"]), await _0x3de8b8["wait"](200)) : (await Z["ksNeoAdParam"](_0x10d9f8["luckdrawVideo_161_100"]), await _0x3de8b8["wait"](200), await Z["ksNeoAdParam"](_0x10d9f8["luckdrawVideo_11_100"]), await _0x3de8b8['wait'](200));
+          _0x20a9d7 < 13 ? (await Z["ksNeoAdParam"](_0x10d9f8["luckdrawVideo_990"]), await _0x3de8b8["wait"](200), await Z["ksNeoAdParam"](_0x10d9f8["luckdrawVideo_990_2"]), await _0x3de8b8["wait"](200)) : (await Z["ksNeoAdParam"](_0x10d9f8["luckdrawVideo_100"]), await _0x3de8b8["wait"](200), await Z["ksNeoAdParam"](_0x10d9f8["luckdrawVideo_100_2"]), await _0x3de8b8['wait'](200));
         }
       }
 
